@@ -1,0 +1,43 @@
+{"activities":[
+	{"name":"Prepare yourself!", "duration":"5", "flags":["break"], "color":"blue"},
+
+	{"name":"Bodyweight crunch", "duration":"30", "description":"Hold 2 sec at top"},
+	{"name":"Full body fold", "duration":"30", "description":"Knie anziehen, dahinter klatschen"},
+	{"name":"Core body rocks", "duration":"30", "description":"Die Wippe"},
+	{"name":"Exlposive Sit-ups", "duration":"30", "description":"Control the negative"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Side oblique crunch (right)", "duration":"45", "description":"Short contraction"},
+	{"name":"Side oblique crunch (left)", "duration":"45", "description":"Short contraction"},
+	{"name":"Heel taps", "duration":"30", "description":"Keep torso up"},
+	{"name":"Russian Twists", "duration":"30"},
+	{"name":"Russian Twists", "duration":"30"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Scissor leg raise", "duration":"40", "description":"Wechselnd Beine bis nach oben ziehen"},
+	{"name":"Reverse crunch", "duration":"30", "description":"Knee to chest"},
+	{"name":"Lying leg raises", "duration":"30", "description":"Straight the whole time"},
+	{"name":"Single leg raises (right)", "duration":"45", "description":"Straight the whole time"},
+	{"name":"Single leg raises (left)", "duration":"45", "description":"Straight the whole time"},
+	{"name":"Flutter kicks", "duration":"30", "description":"Schneller Schwimmer auf dem Rücken"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Serratus plank up", "duration":"30", "description":"Rücken  hoch-runter während plank"},
+	{"name":"Plank-ups", "duration":"30"},
+	{"name":"Shoulder taps", "duration":"30"},
+	{"name":"Alternate Supermans", "duration":"30", "description":"Squeeze glute / lower back"},
+	{"name":"Side plank rotations", "duration":"30", "description":"Extend upper arm"},
+	{"name":"Side plank ups (one side)", "duration":"40", "description":"Middle to top"},
+	{"name":"Side plank ups (other side)", "duration":"40", "description":"Middle to top"},
+	{"name":"Plank toe taps", "duration":"30", "description":"Aus Stütz überkreuzt Hand zu Fuß nehmen und wechseln"},
+	{"name":"Break", "duration":"5", "flags":["break"], "color":"blue"},
+	{"name":"Frog hops", "duration":"30", "description":"Keep legs straight (possibly)"},
+	{"name":"Mountain climbers", "duration":"30"},
+	{"name":"Mountain climbers", "flags":["limitless"]},
+	{"name":"Ab contrations", "duration":"30"},
+	{"name":"Stomach Vacuums", "duration":"30"}
+]
+}

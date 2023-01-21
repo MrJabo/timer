@@ -1,0 +1,52 @@
+{"activities":[
+	{"name":"Prepare yourself!", "duration":"5", "flags":["break"], "color":"blue"},
+	{"name":"Close push-ups", "duration":"30", "flags":["limitless"], "description":"20 reps"},
+	{"name":"Plank-ups", "duration":"40"},
+	{"name":"Shoulder taps", "duration":"30"},
+	{"name":"Alternate Supermans", "duration":"30", "description":"Squeeze glute / lower back"},
+#	{"name":"Push-ups Extensions", "duration":"30", "description":"go to left and right"},
+	{"name":"Plank extensions (one side)", "duration":"30", "flags":["limitless"], "description":"(star); 20 reps"},
+	{"name":"Plank extensions (other side)", "duration":"30", "flags":["limitless"], "description":"(star); 20 reps"},
+	{"name":"Alternate Lunges", "duration":"30"},
+	{"name":"Knee jumps", "duration":"30"},
+	{"name":"Calf jumps", "duration":"30", "description":"Zehenspitzen"},
+	{"name":"Bodyweight crunch", "duration":"30", "description":"Hold contraction"},
+	{"name":"Bodyweight crunch", "duration":"30", "flags":["limitless"], "description":"Hold contraction; as long as possible"},
+	{"name":"Heel taps", "duration":"30", "description":"Keep torso up"},
+	#test
+	{"name":"Heel taps", "duration":"30", "flags":["limitless"], "description":"Keep torso up"},
+	{"name":"Side oblique crunch (left)", "duration":"45", "description":"Short contraction"},
+	{"name":"Side plank ups (left)", "duration":"30", "description":"Bottom to middle"},
+	{"name":"Side oblique crunch (right)", "duration":"45", "description":"Short contraction"},
+	{"name":"Side plank ups (right)", "duration":"30", "description":"Bottom to middle"},
+	{"name":"Side plank rotations", "duration":"45", "description":"Extend upper arm"},
+	{"name":"Plank forward reach", "duration":"30", "description":"Alternating arms"},
+	{"name":"Arm rotations", "duration":"30", "description":"Head to butt"},
+	{"name":"Back static hold", "duration":"30"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"One leg standup (left)", "duration":"30", "description":"Stand up from Chair with one leg"},
+	{"name":"Controlled squats", "duration":"30"},
+	{"name":"One leg standup (right)", "duration":"30", "description":"Stand up from Chair with one leg"},
+	{"name":"Squat in outs", "duration":"30"},
+	{"name":"Sidewards lunge", "duration":"30", "description":"Ausfallschritt links rechts"},
+	{"name":"One leg standup (mixed sides)", "duration":"30"},
+	{"name":"Frog hops", "duration":"30", "description":"Keep legs straight (possibly)"},
+	{"name":"Straight leg walk outs", "duration":"30", "description":"Slow tempo"},
+	{"name":"Twisting crunch", "duration":"30", "description":"Elbow to other sides knee"},
+	{"name":"Reverse crunch", "duration":"40", "description":"Knee to chest"},
+	{"name":"Lying leg raise", "duration":"30", "description":"straight, bent, straight"},
+	
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Plank knee ins", "duration":"30", "description":"Alternate sides"},
+	{"name":"Forearm push-ups", "duration":"30"},
+	{"name":"Lying leg raises", "duration":"30", "description":"Straight the whole time"},
+	{"name":"Curtsy lunge jumps", "duration":"30", "description":"Skater jumps"},
+	{"name":"Burpees", "flags":["limitless"], "description":"15 reps min" },
+	{"name":"Extended plank", "duration":"30", "description":"Just hold"},
+	{"name":"Mountain climbers", "duration":"30"},
+	{"name":"High knee burnout", "duration":"30", "description":"Take knees as high as possible (fast!)"}
+]
+}

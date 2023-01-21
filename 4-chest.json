@@ -1,0 +1,31 @@
+{"activities":[
+	{"name":"Prepare yourself!", "duration":"5", "flags":["break"], "color":"blue"},
+	{"name":"Push-up shoulder tap", "flags":["limitless"], "description":"Alternating sides"},
+	{"name":"Straight leg walk outs", "duration":"30", "description":"Controlle movement"},
+	{"name":"Extended plank ups", "duration":"30"},
+	{"name":"Straight leg walk outs", "duration":"30", "description":"Controlle movement"},
+	{"name":"Arm rotations", "duration":"30", "description":"Small circles: bottom-back; top-front"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Pike Press ups", "duration":"30", "description":"Similar to Military Press"},
+	{"name":"Chest contractions", "duration":"30"},
+	{"name":"Pulse Push-ups", "duration":"30"},
+	{"name":"Shoulder taps", "duration":"30"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Plank laterals (one side)", "duration":"40"},
+	{"name":"Plank laterals (other side)", "duration":"40"},
+	{"name":"Lying Kickbacks", "duration":"30", "description":"Im Liegen Arme nach hinten strecken und anziehen"},
+	{"name":"Upper Extensions", "duration":"30"},
+
+	{"name":"Break", "duration":"30", "flags":["break"], "color":"blue"},
+
+	{"name":"Push-up in outs", "duration":"30", "description":"via jumps"},
+	{"name":"Around the worlds", "duration":"30", "description":"big arm rotations while sitting on knees"},
+	{"name":"L sit punshes", "duration":"30"},
+	{"name":"Yoga Press ups", "duration":"30", "description":"push ups, when on top goto pike and back; all fluid"},
+	{"name":"Static laterals", "duration":"30", "description":"Arme nach oben gegen Handtuch"}
+]
+}
